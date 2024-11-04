@@ -344,7 +344,7 @@
         ctx.lineTo(778, 440); 
         ctx.stroke();
 
-        // Pioruny
+        // SSMANKI
         ctx.beginPath();
         ctx.moveTo(820, 330); // 250 + 400
         ctx.lineTo(810, 340); // 240 + 400
